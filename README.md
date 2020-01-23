@@ -1,4 +1,5 @@
 ![header](/artwork/header.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsebawyrzysk%2Fsupport-dashboard-desktop.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsebawyrzysk%2Fsupport-dashboard-desktop?ref=badge_shield)
 
 # Klinker Apps Support Dashboard
 
@@ -50,3 +51,7 @@ The pages I have set up probably won't be the same as what you need, since they 
 3. Add `play-store` to the `navLinks` array, in the `loader.js` file. It will automatically be added to whatever position you have defined.
 
 The naming will need to be consistent across these three locations.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsebawyrzysk%2Fsupport-dashboard-desktop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsebawyrzysk%2Fsupport-dashboard-desktop?ref=badge_large)
